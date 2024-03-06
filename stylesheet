@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Adjust .job-listings-item styles */
+        .job-listings-item {
+            border-radius: 2px !important;
+        }
+
+        /* Adjust .filter-form styles */
+        .filter-form {
+            border-radius: 2px !important;
+        }
+
+        /* Adjust .filter-form-input styles */
+        .filter-form-input {
+            font-size: 14px;
+        }
+.navbar-fixed-on-top {
+background-color: #F6F6F6
+}
+
+        /* Adjust select within .filter-form */
+        .filter-form .custom-select {
+            border-radius: 2px;
+            font-size: 14px;
+            height: calc(1.9em + 0.75rem + 2px);
+        }
+        .filter-form-input {
+            border-radius: 2px;
+            font-size: 14px;
+            height: calc(1.9em + 0.75rem + 2px);
+        }
+
+        /* Adjust .job-search-form styles */
+        .job-search-form {
+            border-radius: 2px;
+        }
+
+        /* Adjust .featured-category--without-image a styles */
+        .featured-category--without-image a {
+            border-radius: 2px;
+        }
+
+        /* Adjust .widget-products .product-item styles */
+        .widget-products .product-item {
+            border-radius: 2px;
+        }
+
+      a.btn.btn-primary {
+      border-radius: 2px;
+}
+      button.btn-primary {
+      border-radius: 2px;
+}
+
+.job-search-form .btn-primary {
+      border-radius: 2px;
+}
+
+.job-search-form .form-group .form-control {
+      border-radius: 1px;
+}
+
+.job-search-form .search-category-container .custom-select, .job-search-form .search-job-type-container .custom-select {
+      border-radius: 1px;
+}
+
+.job-inner-shade {
+      border-radius: 3px;
+}
+
+.job-inner .job-employer-logo img {
+      border-radius: 3px;
+}
+
+.job-listings-item .job-employer-logo img {
+      border-radius: 3px;
+}
+.job-listings-item .job-partner-logo .acronym {
+      border-radius: 3px;
+}
+
+.hero-area .contents .head-title {
+    font-size: 55px;
+    font-weight: 600
+}
+
+.widget-employer__list-link {
+      border-radius: 3px;
+}
+
+/* Set font weight for specific classes */
+.widget-products .product-item-name,
+.section-searched-item,
+.form-register .form-title,
+.form-title {
+    font-weight: 525; /* Adjusted to closest valid value */
+}
+
+/* Set radius for employer block */
+.widget-employer__list-link {
+      border-radius: 3px;
+}
+
+/* Set radius for sign up form */
+.form-container .form-box { 
+      border-radius: 3px;
+}
+.form-container .btn, .form-container .form-control {
+      border-radius: 2px;
+}
+
+/* Set radius for register form */
+.form-register .form-box {
+      border-radius: 3px;
+}
+
+.form-register .custom-select, .form-register .form-control, .form-register .form-control-btn {
+      border-radius: 2px;
+}
+
+.image-placeholder {
+      border-radius: 2px;
+}
+
+.job-seeker-profile-item {
+      border-radius: 3px;
+}
+
+.job-seeker-profile-wrapper {
+      border-radius: 3px;
+}
+
+.job-seeker-profile-wrapper .profile-picture img {
+          border-radius: 5px;
+          width: 110px;
+          height: 110px;
+}
+
+.job-seeker-profile-item .job-seeker-profile-photo { 
+      border-radius: 3px;
+}
+
+.btn-outline-primary {
+      border-radius: 2px;
+}
+
+/* Set caps on titles */
+h1, h2, h3, h4 {
+    text-transform: uppercase;
+}
+
+.job-inner-title {
+    line-height: normal; /* or line-height: inherit; */
+}
+
+
+/* Custom table styling */
+
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.custom-table th, .custom-table td {
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 8px;
+}
+
+.custom-table th {
+    background-color: #EB4858;
+    color: white;
+}
+
+.custom-table tbody tr:nth-child(odd) {
+    background-color: #f9fafb;
+}
+
+/* Existing styles */
+
+@media only screen and (max-width: 600px) {
+    .custom-table {
+        width: 100%;
+        font-size: 14px;
+    }
+    .custom-table th, .custom-table td {
+        padding: 5px;
+    }
+}
+
+
+    </style>
+</head>
+<body>
+
+    <!-- Your HTML content goes here -->
+
+</body>
+</html>
